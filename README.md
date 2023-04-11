@@ -3,4 +3,3 @@
 Trần Đức Long
 Nguyễn Mạnh Quyền
 Phùng Bá Quý
-#Thanks for reading!
